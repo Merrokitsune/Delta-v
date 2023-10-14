@@ -1,6 +1,8 @@
 <p align="center"> <img alt="Test Station 14 Delta-V Logo" width="128" height="128" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Crystal_Clear_app_linneighborhood.png" /></p>
 <!---<p align="center"> <img alt="Space Station 14 Delta-V Banner" width="512" height="126" src="https://raw.githubusercontent.com/DeltaV-Station/Delta-v/master/Resources/Textures/Logo/banner.png" /></p>-->
 
+Art:  Everaldo Coelho and YellowIcon; LGPL.
+
 Delta-V is a fork of [Space Station 14](https://github.com/space-wizards/space-station-14), embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine.
 
 Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a homegrown engine written in C#.
